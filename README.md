@@ -14,6 +14,13 @@ Ich habe heute zuerst meine Excel-Tabelle mit den Praktikumstellen ergänzt. Ich
 ## 22.08.2025
 - [x] Bewerbungsunterlagen für gewisse Firmen anpassen
 - [ ] Website verbessern
-- [ ] Für Franz lernen - Voci
+- [x] Für Franz lernen - Voci
 
 Heute habe ich zuerst meine Bewerbungsunterlagen angepasst. Gestern war der Kontakttag bei der Kanti und da habe ich weitere Frimen kennengelernt. Ich habe dann heute meine Unterlagen angepasst damit es zur Firma passt. Danach habe ich den Lerntyp-Dokument ausgefüllt. Danach habe ich für die Franz-Voci Test gelernt, weil es 125 Wörter insegamt sind. (Am Ende noch bisschen Sudoku gespielt)
+
+
+## 29.08.2025
+- [ ] Website verbessern
+- [x] Englisch Hausaufgaben machen
+
+Ich habe auf meiner Website meine Zeugnisse von der Kanti angepasst, da es noch die Zeugnisse von letztes Jahr gefehlt hat. Ich muss noch meine Zeugnisse vom BBB hinzufügen, da ich sie gerade nicht als File habe. Ich habe danach noch kleinere Änderungen an meiner Homepag gemacht. Zuletzt habe ich noch meine Englisch Hausaufgaben gemacht. 
