@@ -24,3 +24,14 @@ Heute habe ich zuerst meine Bewerbungsunterlagen angepasst. Gestern war der Kont
 - [x] Englisch Hausaufgaben machen
 
 Ich habe auf meiner Website meine Zeugnisse von der Kanti angepasst, da es noch die Zeugnisse von letztes Jahr gefehlt hat. Ich muss noch meine Zeugnisse vom BBB hinzufügen, da ich sie gerade nicht als File habe. Ich habe danach noch kleinere Änderungen an meiner Homepag gemacht. Zuletzt habe ich noch meine Englisch Hausaufgaben gemacht. 
+
+
+## 05.09.2025
+- [ ] Weitere Praktikumsstellen suchen
+
+Ich war auf Suche nach weitere Praktikumsstellen. Ich habe verschiedene Websiten von Firmen angeschaut und manche notiert, bei denen ich mich bewerben würde. Einige haben jedoch keine Stellen heraus geschrieben, aber man kann ja einfach schicken. 
+
+## 12.09.2025
+- [ ] Aufträge Modul 335 fertig machen
+
+Heute habe ich meine Französisch Aufgaben erledigt und auch noch für die Grammatik Prüfung gelernt. Ich habe danach meine Aufträge vom Modul 335 weitergemacht 
