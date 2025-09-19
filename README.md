@@ -35,3 +35,16 @@ Ich war auf Suche nach weitere Praktikumsstellen. Ich habe verschiedene Websiten
 - [ ] Aufträge Modul 335 fertig machen
 
 Heute habe ich meine Französisch Aufgaben erledigt und auch noch für die Grammatik Prüfung gelernt. Ich habe danach meine Aufträge vom Modul 335 weitergemacht 
+
+
+
+## 19.09.2025
+Feinplanung:
+Ich will zuerst ein wenig für IDAF Englisch vorbereiten - über mein Sprachaufenthaltsort recherchieren: San Diego  und  ich will heute noch ein wenig Französisch lernen, weil wir wieder einen Voci-Test haben.
+
+- [x] IDAF Englisch vorbereitung
+- [x] Französisch lernen
+- [ ] Bewerbung an Lufthansa schicken
+- [ ] Ein wenig am LB weitermachen - M324
+
+Ich habe heute zuerst meine IDAF Englisch fertig gestellt. Ich musste über die Geschichte von San Diego recherchieren und am Ende zusammenfassen. Es war bisschen schwierig, weil mir gesagt wurde, dass die Geschichte erst sehr spät angefangen hat (so um die 1970). Danach habe ich kurze Geschichten und Essays geschrieben auf Englisch, weil es als eine kleine Vorbereitung für meine CAE-Prüfung im März gilt. Danach habe ich die neuen französisch Wörter gelernt. Danach Zahnarzttermin und dann weiter Französich. 
