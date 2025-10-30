@@ -48,3 +48,14 @@ Ich will zuerst ein wenig für IDAF Englisch vorbereiten - über mein Sprachaufe
 - [ ] Ein wenig am LB weitermachen - M324
 
 Ich habe heute zuerst meine IDAF Englisch fertig gestellt. Ich musste über die Geschichte von San Diego recherchieren und am Ende zusammenfassen. Es war bisschen schwierig, weil mir gesagt wurde, dass die Geschichte erst sehr spät angefangen hat (so um die 1970). Danach habe ich kurze Geschichten und Essays geschrieben auf Englisch, weil es als eine kleine Vorbereitung für meine CAE-Prüfung im März gilt. Danach habe ich die neuen französisch Wörter gelernt. Danach Zahnarzttermin und dann weiter Französich. 
+
+
+## 26-09-2025
+Feinplanung:
+Anfangen mit M335 LB. 
+
+- [ ] IDAF Englisch anfangen
+- [ ] LB 335 anfangen
+- [ ] Weiterhin Stellen suchen
+
+Da es an heute DSL war, habe ich nicht die volle Zeit gearbeitet, aber habe meine ZEit sehr gut benutzt. Ich habe die Geschichte von San Diego zusammenfassen können und habe sie auch aufgeschrieben. Danach habe ich für meine LB im Modul 335 Ideen ausgedacht und habe sie mir notiert. Danach habe ich angefangen. Nachdem ich am LB gearbeitet habe, habe ich meinen Koffer für den Englischsprachaufenthalt in San Diego gepackt. 
