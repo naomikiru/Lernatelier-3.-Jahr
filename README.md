@@ -61,16 +61,3 @@ Anfangen mit M335 LB.
 
 Da es an heute DSL war, habe ich nicht die volle Zeit gearbeitet, aber habe meine ZEit sehr gut benutzt. Ich habe die Geschichte von San Diego zusammenfassen können und habe sie auch aufgeschrieben. Danach habe ich für meine LB im Modul 335 Ideen ausgedacht und habe sie mir notiert. Ich habe zuerst überlegt welche ich implementieren will und welche nicht zu aufwendig sind. Danach habe ich angefangen mit ein wenig kodieren. Nachdem ich am LB gearbeitet habe, habe ich meinen Koffer für den Englischsprachaufenthalt in San Diego gepackt. 
 
-
-
-
-## Grobplanung Lernperiode 2
-Ich habe diese Lernperiode vor, weitere Stellen zu suchen, da ich noch keine Praktikumstelle hab. Ich will auch noch meine Programmierungsskills verbessern. Ich habe schon Ideen für kleinere Projekte ausgedacht die ich machen möchte. 
-
-
-## 31.10.2025
-Feinplanung: 
-Ich will meine Aufträge vom neuen Modul aufholen, da ich am Montag wegen Flug fehlte. 
-
-- [ ] Neue Modul anfangen
-- [ ] 
