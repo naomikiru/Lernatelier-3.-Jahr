@@ -1,6 +1,6 @@
 # Lernatelier-3.-Jahr
 
-## Grobplanung
+## Grobplanung Lernperiode 1
 Ich habe vor in dieser Lernperiode weiter mit Informatik in die Tiefe zu gehen, z.B. bei Sachen wie Datenanalyse. Nebenbei soll ich weiter nach Praktikumsstellen suchen und auch Bewerbungen abschicken. Ich will auch noch meine Homepage verbessern.
 
 
@@ -31,6 +31,7 @@ Ich habe auf meiner Website meine Zeugnisse von der Kanti angepasst, da es noch 
 
 Ich war auf Suche nach weitere Praktikumsstellen. Ich habe verschiedene Websiten von Firmen angeschaut und manche notiert, bei denen ich mich bewerben würde. Einige haben jedoch keine Stellen heraus geschrieben, aber man kann ja einfach schicken. 
 
+
 ## 12.09.2025
 - [ ] Aufträge Modul 335 fertig machen
 
@@ -54,8 +55,22 @@ Ich habe heute zuerst meine IDAF Englisch fertig gestellt. Ich musste über die 
 Feinplanung:
 Anfangen mit M335 LB. 
 
-- [ ] IDAF Englisch anfangen
-- [ ] LB 335 anfangen
+- [x] IDAF Englisch anfangen
+- [x] LB 335 anfangen
 - [ ] Weiterhin Stellen suchen
 
-Da es an heute DSL war, habe ich nicht die volle Zeit gearbeitet, aber habe meine ZEit sehr gut benutzt. Ich habe die Geschichte von San Diego zusammenfassen können und habe sie auch aufgeschrieben. Danach habe ich für meine LB im Modul 335 Ideen ausgedacht und habe sie mir notiert. Danach habe ich angefangen. Nachdem ich am LB gearbeitet habe, habe ich meinen Koffer für den Englischsprachaufenthalt in San Diego gepackt. 
+Da es an heute DSL war, habe ich nicht die volle Zeit gearbeitet, aber habe meine ZEit sehr gut benutzt. Ich habe die Geschichte von San Diego zusammenfassen können und habe sie auch aufgeschrieben. Danach habe ich für meine LB im Modul 335 Ideen ausgedacht und habe sie mir notiert. Ich habe zuerst überlegt welche ich implementieren will und welche nicht zu aufwendig sind. Danach habe ich angefangen mit ein wenig kodieren. Nachdem ich am LB gearbeitet habe, habe ich meinen Koffer für den Englischsprachaufenthalt in San Diego gepackt. 
+
+
+
+
+## Grobplanung Lernperiode 2
+Ich habe diese Lernperiode vor, weitere Stellen zu suchen, da ich noch keine Praktikumstelle hab. Ich will auch noch meine Programmierungsskills verbessern. Ich habe schon Ideen für kleinere Projekte ausgedacht die ich machen möchte. 
+
+
+## 31.10.2025
+Feinplanung: 
+Ich will meine Aufträge vom neuen Modul aufholen, da ich am Montag wegen Flug fehlte. 
+
+- [ ] Neue Modul anfangen
+- [ ] 
