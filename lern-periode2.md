@@ -7,5 +7,20 @@ Feinplanung:
 Ich will meine Aufträge vom neuen Modul aufholen, da ich am Montag wegen Flug fehlte. 
 
 - [ ] Neue Modul anfangen
-- [ ] 
+- [ ] IDAF Englisch weiter schreiben
+- [ ] E-Mail schreiben
+
+
+An diesem Tag habe ich zuerst eine E-Mail an die Absenzenbeauftragte geschrieben, da meine Absenzen für den 27. Oktober falsch eingetragen wurden. Danach habe ich am Report weiter gearbeitet - IDAF Englisch. Ich habe angefangen über die allgemeine Atmosphäre in San Diego zu schreiben und auch über die Kultur usw. Danach hatte ich das Gespräch. Nacher habe ich dann mit dem neuen Modul vom Montag angefangen, und die Aufträge aufgeholt. 
+
+
+## 07.11.2025
+Feinplanung:
+Aufträge vom Modul 323 fertig machen, und weitere Stellen suchen. 
+Franz Voci lernen für Test / Kleinprojekt anfangen.
+
+- [ ] Aufträge M323 fertig machen.
+- [ ] Stellensuche
+
+
 
