@@ -19,8 +19,8 @@ Feinplanung:
 Aufträge vom Modul 323 fertig machen, und weitere Stellen suchen. 
 Franz Voci lernen für Test / Kleinprojekt anfangen.
 
-- [ ] Aufträge M323 fertig machen.
+- [x] Aufträge M323 fertig machen.
 - [ ] Stellensuche
 
-Ich habe heute zuerst meine Aufträge vom Modul 323 fertig gemacht, da ich mich am Dienstag ins falsche M323 Kurs eingeschrieben habe. Ich habe dann an die Aufträge vom Tag 1 gearbeitet und fertig gemacht. 
+Ich habe heute zuerst meine Aufträge vom Modul 323 fertig gemacht, da ich mich am Dienstag ins falsche M323 Kurs eingeschrieben habe. Ich habe dann an die Aufträge vom Tag 1 gearbeitet und fertig gemacht. Ich habe den Artikel zur funktionalen Programmierung gelesen und kurz erklärt warum Zustandslosigkeit ein Vorteil ist. Danach habe ich die Präsentation zu Pure Function und Immutabilität angeschaut. Beim letzten Auftrag musste ich eine Konsolenapp erstellen, mit einer Rabattfunktion und Unittests geschrieben.
 
