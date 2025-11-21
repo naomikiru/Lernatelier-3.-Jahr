@@ -24,3 +24,16 @@ Franz Voci lernen für Test / Kleinprojekt anfangen.
 
 Ich habe heute zuerst meine Aufträge vom Modul 323 fertig gemacht, da ich mich am Dienstag ins falsche M323 Kurs eingeschrieben habe. Ich habe dann an die Aufträge vom Tag 1 gearbeitet und fertig gemacht. Ich habe den Artikel zur funktionalen Programmierung gelesen und kurz erklärt warum Zustandslosigkeit ein Vorteil ist. Danach habe ich die Präsentation zu Pure Function und Immutabilität angeschaut. Beim letzten Auftrag musste ich eine Konsolenapp erstellen, mit einer Rabattfunktion und Unittests geschrieben.
 
+
+## 14.11.2025
+Feinplanung: 
+Weitere Praktikumsstellen suchen. Geschichte Präsentation fertig stellen.
+
+- [ ] Stellensuche
+- [ ] Präsentation Geschichte
+
+Ich habe heute zuerst ein wenig weiter für Stellengesucht, aber habe nicht viele weitere gefunden. Ich habe einfach wieder die Geschäfte vom Teams-Kanal genommen. Danach habe ich angefangen mit meiner Geschichte Präsentation. Ich musste dort ein paar Folien für die Powerpoint erstellen über die Lage Japans nach dem Jahre 1989. Am ende habe ich die Folien an meinem Gruppenmitglied geschickt, damit wir unsere Powerpoint zusammenstellen konnten. 
+
+
+
+## 21.11.2025
