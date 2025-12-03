@@ -37,3 +37,19 @@ Ich habe heute zuerst ein wenig weiter für Stellengesucht, aber habe nicht viel
 
 
 ## 21.11.2025
+Feinplanung: 
+
+- [ ] Englisch Aufgaben lösen
+- [ ] n
+
+(ergänzung) Ich habe an diesem Tag zuerst Englisch Aufgaben gelöst, da meine Lehrerin abwesend war, aber uns Aufgaben gegeben hat. Danach habe ich für Französisch Voci Test gelernt. Ich habe auch einen .js Skript ausprobiert -> eine Figur die den Cursor folgt. 
+
+
+## 28.11.2025
+Feinplanung:
+IDAF Englisch fertig machen, Englisch Aufgaben fertig machen
+
+- [ ] IDAF Englisch
+- [ ] Englisch Aufgaben
+
+Heute war die Englisch Lehrerin wieder krank, aber sie hat uns wieder Aufgaben gegeben, die ich auch gelöst habe. Es waren Voci und Phrasal Verbs, danach musste ich die neu erlernten Wörter benutzen und eine Voice Note machen, die ich ihr schicken musste. Danach habe ich am IDAF weitergearbeitet. Ich habe meinen Report über mein Englischsprachaufenthalt in San Diego fertig geschrieben. Ich habe da ergänzt bei meine Experiences und die Conclusion geschrieben. Am Ende hatte ich ca. 2.7k Wörter, aber es hat sich sehr leer angefühlt, weil ich eigentlich viel meher schreiben konnte.
