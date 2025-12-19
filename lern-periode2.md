@@ -53,3 +53,19 @@ IDAF Englisch fertig machen, Englisch Aufgaben fertig machen
 - [ ] Englisch Aufgaben
 
 Heute war die Englisch Lehrerin wieder krank, aber sie hat uns wieder Aufgaben gegeben, die ich auch gelöst habe. Es waren Voci und Phrasal Verbs, danach musste ich die neu erlernten Wörter benutzen und eine Voice Note machen, die ich ihr schicken musste. Danach habe ich am IDAF weitergearbeitet. Ich habe meinen Report über mein Englischsprachaufenthalt in San Diego fertig geschrieben. Ich habe da ergänzt bei meine Experiences und die Conclusion geschrieben. Am Ende hatte ich ca. 2.7k Wörter, aber es hat sich sehr leer angefühlt, weil ich eigentlich viel meher schreiben konnte.
+
+
+## 05.12.2025
+Feinplanung: Aufträge nachholen
+
+- [ ] Modul 323 Aufträge nachholen
+- [ ] Geschichtspräsentation
+
+Ich habe meine Aufträge vom Modul 323 nachgeholt, weil ich nicht alle erledigt habe. Ich hatte ein paar übersprungen und habe diese fertig gemacht. Danach habe ich meinen Teil von der Geschichtspräsentation gelernt. Ich habe zuerst die wichtigen Infos vom erhaltenen Infoblatt gesucht und danach, mit eigenen Wörter, umformuliert. 
+
+
+## 19.12.2025
+Feinplanung: Deutsch Doku finden und recherche
+
+- [ ] Dokumentation für Deutsch Vortrag auswählen und Recherche
+- [ ] Weitere Stellen suchen
